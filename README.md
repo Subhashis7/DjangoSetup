@@ -1,0 +1,2 @@
+# DjangoSetup
+Personal Django Project
